@@ -1,0 +1,16 @@
+.btn__previous,
+.btn__next {
+  width: 120px; 
+  height: 30px; 
+  background-color: black;
+  color: aliceblue;
+  margin-right: 20px;
+  margin-left: 70px;
+}
+h1 {
+    text-align: center;
+}
+.wrapper{
+    width: 500px;
+    height: 200px;
+}
