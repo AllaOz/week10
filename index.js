@@ -25,7 +25,7 @@ function sayHello() {
         return false;
       }
     }
-    let year = 2026;
+    let year = 2024;
     if (ifLeapYear(year)) {
       console.log(year + " год - Високосный год");
     } else {
