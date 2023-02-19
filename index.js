@@ -5,10 +5,10 @@ function sayHello() {
 
   function get1pic(){
   let prevPic = document.getElementById('cat1');
-  prevPic.src ='./images/cat1.jpg';}
+  prevPic.src ='./images/cat1.jpg'; alt="grey kitten in the forest";}
   function get2pic(){
   let nextPic = document.getElementById('cat1')
-  nextPic.src ='./images/cat2.jpg';}
+  nextPic.src ='./images/cat2.jpg'; alt="white kitten lying on a carpet";}
   
   function ifLeapYear(year){
     if (year % 4 === 0) {
